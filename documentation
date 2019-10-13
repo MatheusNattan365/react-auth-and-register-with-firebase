@@ -1,0 +1,14 @@
+CMD   create-react-app
+
+CMD npm install dependencies
+-- npm install @material-ui/core --save
+-- npm install @material-ui/icons --save
+-- npm install react-router-dom --save
+-- npm install firebase --save
+
+CREATE firebase.js
+-- CONFIG firebaseConfig.js
+
+
+CREATE .env
+-- CONFIG enviroment variables
